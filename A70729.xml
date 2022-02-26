@@ -1,0 +1,369 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Observations vpon the Earle of New-Castles Declaration</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70729</idno>
+            <idno type="STC">Wing O116</idno>
+            <idno type="STC">ESTC R12525</idno>
+            <idno type="EEBO-CITATION">12152634</idno>
+            <idno type="OCLC">ocm 12152634</idno>
+            <idno type="VID">55113</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70729)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55113)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 243:E91, no 10 or 746:57)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Observations vpon the Earle of New-Castles Declaration</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Entry for N888 cancelled in Wing (2nd ed.).</note>
+                  <note>Reproduction of original in Thomason Collection, British Library and Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Newcastle, William Cavendish, --  Duke of, 1592-1676. --  Declaration of the Earle of Newcastle in answer to six groundlesse aspersions cast upon him by the Lord Fairefax.</term>
+               <term>Fairfax, Ferdinando Fairfax, --  Baron, 1584-1648.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:55113:1" rendition="simple:additions"/>
+            <p>OBSERVATIONS Vpon the EARLE OF NEW-CASTLES DECLARATION.</p>
+            <p>
+               <hi>LONDON</hi> Printed in the yeare, 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:55113:2"/>
+            <head>OBSERVATIONS. upon The Earle of <hi>Newcaſtles LATE</hi> DECLARATION.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>T is no new thing (though it was never ſo frequented as now) for Incendiaries to accuſe the innocents as diſturbers of the publick tranquillity of the Countrey.</hi>
+            </p>
+            <p>
+               <label>Obſervation.</label>
+It is well your pen goes on ſo farre without particulars, perhaps you expect an application from us, and you ſhall have it; you ſay (for Incendiaries to accuſe innocents was never ſo frequent as now:) you ſay true; for you have laid on the bias in this ſo even, as the accuſation will draw as well towards you as us, ſo as it is no new thing for the Earle of <hi>Newcaſtle</hi> to accuſe the Lord <hi>Fairfax,</hi> Sr. <hi>Iohn Hotham,</hi> and the reſt of our worthies, as in his former Proclamations and warrants appeare, accuſing them for diſturbing the Coun<g ref="char:EOLhyphen"/>tries tranquility, when indeed it is his own hee meanes; wrapping the peace of his Army cunningly in the name of the Countrey.</p>
+            <p>
+               <label>Declaration.</label>
+The <hi>Roman</hi> was angry that his neighbour ſhould defend him<g ref="char:EOLhyphen"/>ſelfe,
+<pb n="3" facs="tcp:55113:2"/>
+and my Lord that I ſhould protect his Majeſties good ſubjects.</p>
+            <p>
+               <label>Obſervation.</label>
+He is not angry that you defend your ſelfe; ſo you defend not your ſelfe againſt the juſtice of Parliament, nor that you ſhould protect His Majeſties good ſubjects, ſo that the ſub<g ref="char:EOLhyphen"/>jects were good you protected; not Papeſts, not delinquents, not the malignants of the Countrey.</p>
+            <p>
+               <label>Declaration.</label>
+Neither is the Lord <hi>Fairfax</hi> able to bring any one particular inſtance to make good his generall calumniations.</p>
+            <p>
+               <label>Obſervation.</label>
+Here is a whole leafe ſpent in vindication, and after much adoe, hee hath at length taken great paines to excuſe him<g ref="char:EOLhyphen"/>ſelfe into as much offence as hee ſtands charged with; for had hee ſaid leſſe, the reader perhaps had believed more; A<g ref="char:EOLhyphen"/>pologies having ever laid on more than they took off; and it is alwayes a miſtake in the guilty, that they think they have never ſaid enough, unleſſe they ſay two much: for particular inſtances, we ſhall render a whole catalogue of Barbariſme and inhumanity, as your vaſt and arbitrary impoſitions, your cruell impriſonments, your ſtripping many good people na<g ref="char:EOLhyphen"/>ked, and ſo turning them forth.</p>
+            <p>
+               <label>Declaration.</label>
+The Lawes are indeed an excellent ſtandard, and meaſure of Iuſtice; but when they become ſpiders webbs, to entangle ſome and let others thorow, and when ſome men muſt obſerve Law, and others bee free from all Law.</p>
+            <p>
+               <label>Obſervation.</label>
+The Lawes indeed are an excellent, &amp;c. I would your Lordſhips Judgement and practice could bee reconciled; and that you would not any more offend againſt ſo great a light, and conviction, for the more you admire the Lawes, the
+<pb n="4" facs="tcp:55113:3"/>
+more you condemne your ſelfe in the breach of them; for your inſtance of the ſpiders web, it ſutes wel with your book, which is not only a net-work of wi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to catch the light o<g ref="char:EOLhyphen"/>pinions, but a poyſon to venome them.</p>
+            <p>When ſome men, you ſay, moſt obſerve Law, and others bee free, you would ſeem to argue the Parliament into a ſtrange delinquency, as if they broke all Lawes themſelves and yet enjoyned an obedience to others, but you miſtake the Lawes, and diſtinguiſh not betwixt the <hi>primae</hi> and the <hi>primis ortae,</hi> the Lawes of Parliament, and the Lawes in Par<g ref="char:EOLhyphen"/>liament, or made there; for theſe latter, they are diſpenſable by ordinance and a fundamentall power; and a Parliament cannot in that capacity tranſgreſſe ſo as private men, nay as themſelves when out of that capacity and become private, for in Parliament a man ſits as a Law-maker, out of it, as a Law-obſerver; and had your Lordſhip kept your ſeate there and not deſerted the Kingdome, or derived your power from thence, and not from perſonall commands, you had then been alſo a Law-maker, whereas now you are a, Law-breaker.</p>
+            <p>
+               <label>Declaration.</label>
+If I by Beelzebub caſt out devills, by whom doe your children caſt them out? &amp;c. So ſay I, if I be a delinquent for raiſing defen<g ref="char:EOLhyphen"/>ſive armes by vertue of His Majeſties Commiſſion, with whom a<g ref="char:EOLhyphen"/>lone the power of the <hi>Militia</hi> is entruſted, &amp;c. What is the Lord <hi>Fairfax?</hi>
+            </p>
+            <p>
+               <label>Obſervation.</label>
+For the text you tell us of, if I by Beelzebub, &amp;c. I can<g ref="char:EOLhyphen"/>not call it a quotation, but a plundering of Scripture for your own advantage; and you that would make God ſpeake in ſo common a buſineſſe, may find him ſilent in a more ſe<g ref="char:EOLhyphen"/>rious occaſion: for the caſe of the <hi>Militia</hi> I referre you to the Parliaments Declarations who have more ably righted themſelves than you can wrong them: for His Majeſties au<g ref="char:EOLhyphen"/>thority,
+<pb n="5" facs="tcp:55113:3"/>
+we ſhould eaſily ſubmit, were it rightly ſtated and diſpenſed, for he is a Kingdomes, not yours, he is a Parlia<g ref="char:EOLhyphen"/>ments, not a privadoes; if one ſhould ſhew the Kings Seale and had ſtollen the Signature, you would ſoon deny his power; ſo you ſhew us the Kings authority, and we anſwer that you came not rightly to it; and the Iuſtice you pretend, is as if you ſhould take the Scepter and knock your fellow Subjects in the head with i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, for juſtice from a private hand is but revenge, and though the Scepter be ſacred in the Kings hand, yet not when you guide the ſtroake.</p>
+            <p>
+               <label>Declaration.</label>
+Let him ſhew but any one particle of known Law, Statute or Common, which I have violated,</p>
+            <p>
+               <label>Obſervation.</label>
+An unheard off impudent challenge againſt clear experi<g ref="char:EOLhyphen"/>ence, his gathering force, his arming of Papiſts, his Plun<g ref="char:EOLhyphen"/>dering, his boundleſſe taxes, are theſe againſt no known Law? his forcing elections of Mayors, as the Mayor of York con<g ref="char:EOLhyphen"/>trary both to Lawes and Cuſtomes; but what meanes hee by this known Law? a law known only to himſelfe and the reſt? or to the law-diſpenſers, the Iudges, or to the Parliament which is able to make the Law beſt known, whoſe interpre<g ref="char:EOLhyphen"/>tation muſt needs carry a more irrepealable and publike cog<g ref="char:EOLhyphen"/>nizance, being the very Court where the Law took being.</p>
+            <p>
+               <label>Declaration.</label>
+Either for a Company of far fetcht, dreare bought principles, drawn without Art or Iudgment, by factions or unskilfull per<g ref="char:EOLhyphen"/>ſons out of the law of nature or nations, as a Lesbianrule to<g ref="char:punc">▪</g> ſerve their ambitious ends,</p>
+            <p>
+               <label>Obſervation.</label>
+It ſeemes by this, you are angry at our Laws of Nature and Nations, calling them in the leafe before, Lawes in the Cloudes: what? are you angry that wee have yet a Law
+<pb n="6" facs="tcp:55113:4"/>
+reviving which you cannot force or wound, and that our fundamentalls ſhould be hid ſo deep that you ſhould not bee able to root them out; it had been a ſad miſ-fortune had wee had no other principles left us, but what ſuch hands as yours might have pull'd from us.</p>
+            <p>
+               <label>Declaration.</label>
+Or for Arbitrary government, which knowes no bounds or limits, but the will of head ſtrong diſcontented perſons.</p>
+            <p>
+               <label>Obſervation.</label>
+For the calumny of Arbitrary government caſt on the Parliament, this is an old trick, to bring a Parliamentary power into equall contempt with the privadoes, but you can hardly perſwade the people that this Arbitrary power in the Parliament, can be ſuch as can hurt the people, as if the Kingdom would deſtroy it ſelfe, and that publike councells ſhould be totally biaſſed with private intereſts, this is as dif<g ref="char:EOLhyphen"/>ficult to believe as to believe that an Army of Papiſts ſhould fight for the Proteſtant Religion, and that to fight againſt a Parliament ſhould bee the next way to defend the Lawes.</p>
+            <p>
+               <label>Declaration.</label>
+With what face can theſe men name the Lawes of the Land? when one of them hath lately told the world in print, that they are but inventions of men, &amp;c.</p>
+            <p>
+               <label>Obſervation.</label>
+For what one of them hath told the world in print, I ſhall not need to anſwer, that were to take the pen out of the authors hand to whom it more juſtly belongs: for your re<g ref="char:EOLhyphen"/>proach here in your firſt line, with what face can theſe men name the Lawes? I muſt ſay rather, with what face can you thus revile the ſupreame court of a Kingdom?</p>
+            <p>
+               <label>Declaration.</label>
+In a word, I raiſe armes by the Law and for the Law, to pro<g ref="char:EOLhyphen"/>tect
+<pb n="7" facs="tcp:55113:4"/>
+the Lawes and Religion eſtabliſhed,</p>
+            <p>
+               <label>Obſervation.</label>
+This is the Argument theſe men fight with, to defend eſtabliſhed Lawes, and an eſtabliſhed Religion; What? are there no corruptions in ei<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her, no need of any Reformation? ſure by the ſame power our Anceſtors made old Lawes, wee may make new: but perſwade us if you can<g ref="char:punc">▪</g> that you fight to protect the Lawes; can a Parliaments enemy be a friend to the Lawes? can he that would ſtop the fountaine w<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh well to the ſtreams? will hee that wounds the body, defend the ſi<g ref="char:EOLhyphen"/>newes? and for ſubverting Religion eſtabliſhed, is a Refor<g ref="char:EOLhyphen"/>mation or melioration a ſubverſion or deſtruction? This is your Lordſhips ignorance or rather your Chaplains ma<g ref="char:EOLhyphen"/>lignity, for I read Clergy Inke in all your paper.</p>
+            <p>
+               <label>Declaration.</label>
+That I have in mine Armie ſome of the Romiſh Communi<g ref="char:EOLhyphen"/>on, I doe not deny, yet but an handfull,</p>
+            <p>
+               <label>Obſervation.</label>
+Of the Romiſh Communion, a very cleanly and near ex<g ref="char:EOLhyphen"/>preſſe for ſo foul a buſineſs, but let me tranſlate you into plain Engliſh, what is this Romiſh Communion, but right down Papiſts, the ever known enemies of our Religion and Lawes, and if Papiſts, then their Prieſts and M<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſes and ſuperſtitions ſure, and thus you break more known Lawes; and for the handfull of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem, that is no excuſe, had you read ever any more Scripture than that you quoted, you might remember a little leven levens the whole lump, and have no commu<g ref="char:EOLhyphen"/>nion with the unfruitfull works of darkneſſe; what concord hath Chriſt and <hi>Baal?</hi>
+            </p>
+            <p>
+               <label>Declaration.</label>
+Yea, it was a note higher in them in a warre, pretended against Papiſts to make uſe of Papiſts, &amp;c. Nay doe they not ſtill admit all ſorts of Sectaries, Browniſts, Anabaptiſts<g ref="char:punc">▪</g> Familiſts?</p>
+            <p>
+               <pb n="8" facs="tcp:55113:5"/>
+               <label>Obſervation.</label>
+For this firſt Calumny you are beholden to a former De<g ref="char:EOLhyphen"/>claration from Court, and I ſhall at this time be beholden to another of the Parliaments for wiping it off; for thoſe you call Sectaries, wee can eaſily ſuffer that, ſo wee purchaſe a truth, let us have it under what notion you will, nor can this parti-coloured-coat you put on it make us love it the leſſe; I would you were all ſo minded, not to be ſo eaſily worded and witted out of your Religion and conſcience.</p>
+            <p>
+               <label>Declaration.</label>
+But let us enquire who are Malignants, are they who will not willingly part with their Religion upon arbitrary Votes?</p>
+            <p>
+               <label>Obſervation.</label>
+Thus you continue your former reproaches, and to render the reſults and ſuffrages of the Parliament under the con<g ref="char:EOLhyphen"/>temptible notion of Arbitrary Votes; and if you would a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke who are Malignants, let me help you; What are thoſe that brought the Innovations into the Church, the Tyranny and Oppreſſions into the State, and drew his Majeſty from the Parliament, and keeps him ſtill? What are thoſe that bring in an Army of Papiſts, and thoſe that daily fill our Kingdom with Armes and Forces from forraign parts? if theſe be not Malignants, they are a terme very like it.</p>
+            <p>
+               <label>Declaration.</label>
+If the common Adverſary did not keep them in a kind of He<g ref="char:EOLhyphen"/>rodian unity for a time, your Browniſts would ſoon condemn the Diſciplinarians for Malignants, and your Anabaptiſts again your Browniſts,</p>
+            <p>
+               <label>Obſervation.</label>
+Theſe errours and differences you have named to us, if they be errours, they are but errours on the right hand, and ne<g ref="char:EOLhyphen"/>ver ſo deſtructive as Papiſts and Prelatiſts, nor is the truth loſt in theſe graduall differences of opinions, the Apoſtle
+<pb n="9" facs="tcp:55113:5"/>
+will inſtruct you not to condemne one another for that, ſo they be not deſtructives to the foundation: <hi>Paul</hi> and <hi>Barna<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as</hi> went ſeverall wayes in a paſſion, and yet about the ſame buſi<g ref="char:EOLhyphen"/>neſſe, even to preach Chriſt.</p>
+            <p>
+               <label>Declaration.</label>
+Can the Kings forces bee ſaid to make an invaſion in his own Dominions &amp;c.</p>
+            <p>
+               <label>Obſervation.</label>
+You tell us of the King under a wrong notion ſtill, as I told you before, ſhew his name or authority in its right luſtre, and then you doe ſomething; and though a King cannot make an invaſion in his own Dominions, yet as a miſperſua<g ref="char:EOLhyphen"/>ded and ſeduced King he may, as a man may deſtroy his own goods, kill his own wife, ſonne, or ſervants; propriety gives a man a juſt liberty or prerogative, but no ſuch boundleſſe or arbitrary power.</p>
+            <p>
+               <label>Declaration.</label>
+Did they not rob and plunder at <hi>Darneton?</hi> did they give an aſſault upon <hi>Pierce-brig</hi> to their loſſe.</p>
+            <p>
+               <label>Obſervation.</label>
+For their plundering at <hi>Darnton;</hi> as you ſay of the Romiſh Communion, ſo ſay I, perhaps the ſouldier might reach forth his hand further than his Commander gave him leave, as is uſuall in times of warre, and ſcarce preventable. And for the loſſe at <hi>Piercebrig,</hi> we know little, but a loſſe of pow<g ref="char:EOLhyphen"/>der and ſhot on our parts, and a loſſe of a <hi>Howard,</hi> Colonell and others on yours.</p>
+            <p>
+               <label>Declaration.</label>
+Neither did I then ſet foot into this Country, but at the ear<g ref="char:EOLhyphen"/>neſt ſollicitation and <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>treaty of the prime Nobility and Gentry of <hi>Yorkſhire.</hi>
+            </p>
+            <p>
+               <label>Obſervation.</label>
+In the firſt part, I am glad you decline the firſt occaſion
+<pb n="10" facs="tcp:55113:6"/>
+of your comming, it is a ſigne you are ſeeing an errour in what you did; and for the prime Nobility of <hi>York-ſhiere</hi> that did ſollicit you, I perceive your Lordſhip underſtands not our countrey aright, we ſhall informe you better, the Earle of <hi>Cumberland</hi> was one, who was malignant enough to bee General in the city, but not reſolved enough for the field, one whom your Excellencie hath caſheered from a Generall into a Leiftenant Generall, and from thence into his houſe at <hi>Skipton,</hi> where I leave him: the Lord <hi>Falconbridge,</hi> the Lord <hi>Dunbar</hi> were the reſt, two, as your Lordſhip ſaies of the Romiſh communion, the Lord <hi>Savill,</hi> who is now of your cabinet, though not of your counſell, Sr. <hi>William Savill,</hi> to whom you were beholding for his timely notice of the loſſe of <hi>Leedes,</hi> and his own provident eſcape, Sr. <hi>Marmaduke Lang<g ref="char:EOLhyphen"/>daile</hi> whom the former Lord <hi>Strafford</hi> had affrighted out of all Conſcience and Religion at once, and of a Patriot made him a Court. ſtalking-horſe.</p>
+            <p>
+               <label>Declaration.</label>
+And hee that ſheddeth mans blood without a commiſſion from the King of Heaven who only hath originall power over the lives of his creatures, and no multitude of men in the world colle<g ref="char:EOLhyphen"/>ctive or repreſentative whatſoever, by man ſhall his blood bee ſhed.</p>
+            <p>
+               <label>Obſervation.</label>
+His Lordſhip his right on the words of the text, but hee miſſes the ſenſe, he brings in a private law in a publick quar<g ref="char:EOLhyphen"/>rell, and for a Commiſſion from the King of Heaven, they can ſooner ſhew that than his Lordſhip his from Heaven, for bringing his Papiſts, the enimies of truth, to fight for it, I have ſaid you are Gods, is ſure Commiſſion enough; and for your ſaying, no collective or repreſentative body whatſo<g ref="char:EOLhyphen"/>ever, is it not civill blaſphemy thus to revile Courts of Ju<g ref="char:EOLhyphen"/>ſtice,
+<pb n="11" facs="tcp:55113:6"/>
+and like a caſheerd Iudge to raile againſt that Bench where hee can have no place himſelfe.</p>
+            <p>
+               <label>Declaration.</label>
+It is an eaſie thing for an Orator to caſt a miſt before the eyes of the People, and to make them a plauſible diſcourſe of the cauſe of God, &amp;c. they had hard hearts if they could not af<g ref="char:EOLhyphen"/>ford themſelves a good word.</p>
+            <p>
+               <label>Obſervation.</label>
+It ſeemes your Lordſhip hath made ſuch uſe of it your ſelfe, you accuſe it in others, and what ever good words they afford themſelves, I am ſure hee that reads your book will ſee, you are not far behinde, to your ſelfe, if you have not got the ſtart, but whatever good words they give them<g ref="char:EOLhyphen"/>ſelves, I think they have few enough from you, but you would faine jeſt your readers into a beliefe of your accuſati<g ref="char:EOLhyphen"/>on, for your naming Religion and Scripture too as you do, you do ſo mingle them in your State diſcourſes, as if you had got on your Chaplains gowne, and yet would talke like a Lord.</p>
+            <p>
+               <label>Declaration.</label>
+Theſe very men have taught the contrary, have proteſted the contrary, <hi>ante mota certamina,</hi> then themſelves condemned this very doctrine which now they practice.</p>
+            <p>
+               <label>Obſervation.</label>
+What doe you tell us of what they then condemne and now practice, are you angry at any change for the better? and for your Latine <hi>ante mota certamina,</hi> I ſhall draw up a ſqua<g ref="char:EOLhyphen"/>dron of Latine to give fire on his Lordſhips, <hi>non eſt pudor tranſire admeliora.</hi>
+            </p>
+            <p>
+               <pb n="12" facs="tcp:55113:7"/>
+               <label>Declaration.</label>
+Are they ſucceſſors in Dectrine of thoſe firſt Reformers in <hi>Germany?</hi> no; what theſe old Proteſtants allowed, &amp;c. theſe new condemne, this is beyond the power of an omnipotency to make both parts of a contradiction true, no Proteſtants to bee Proteſtants.</p>
+            <p>
+               <label>Obſervation.</label>
+They are ſucceſſors in Doctrine ſo far as their Doctrine is ſucceſſor to Chriſts and his Apoſtles, but no further, and, tis true, we condemne what thoſe Proteſtants allowed, but it is becauſe we have had a longer light of the Goſpell with us, ſhall wee not ſee clearer at our noon, than they in the firſt dawning; and to make a contradiction good, and yet no om<g ref="char:EOLhyphen"/>nipotency neither; wee are Proteſtants in proteſting with them againſt <hi>Rome</hi> and the corruptions of it, no Proteſtants in what they proteſt with it; for Gods omnipotency I could wiſh your Lordſhip more tender of his name and word than you are, but I know not where to have you for certain, you are now in Divinity, then in war, you are now in a ſurpleſſe, anon in buffe.</p>
+            <p>
+               <label>Declaration.</label>
+Could theſe Ambaſſadours of peace kept themſelves for that theam which was bequeathed them by their Prince of peace they might long enjoy their benifices.</p>
+            <p>
+               <label>Obſervation.</label>
+It is wel, and your Lordſhip might adde alſo, could the mi<g ref="char:EOLhyphen"/>niſters have held their peace while your army of Papiſts had come in at this back dore, and while all the Altars and cere<g ref="char:EOLhyphen"/>monies, all the malignity and prophaneſſe, all the oppreſſi<g ref="char:EOLhyphen"/>on had gone on its courſe, they had enjoyed their livings, no; the godly Miniſters are not eaſily bribed to hold their peace at theſe evills, as perhaps your Biſhops and Doctors of <hi>York, Durham,</hi> nor can the good Divines ſo eaſily hold their peace
+<pb n="13" facs="tcp:55113:7"/>
+as yours, who are leſſe uſed to the Pulpit.</p>
+            <p>
+               <label>Declaration.</label>
+If any Miniſters have aſſumed a Plurality of Profeſſions and added the ſword to the word,</p>
+            <p>
+               <label>Obſervation.</label>
+For wearing a defenſive weapon in ſuch offenſive times, was never condemned, no not by Apoſtolicall practiſe<g ref="char:punc">▪</g> if a ſword had been ſo inconſiſtent with a Divine, I ſuppoſe S. <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> had not made uſe of one in our Saviours company, and if they pleaſe to think of <hi>Zwinglius, Charmier,</hi> and other ſuch worthy Divines, who were as famous for their Armes as ar<g ref="char:EOLhyphen"/>guments.</p>
+            <p>
+               <label>Declarition.</label>
+Lord how theſe men are touched to the quick, when any but themſelves doe offer to plunder,</p>
+            <p>
+               <label>Obſervation.</label>
+It is well that now at laſt your Lordſhip will ſport your ſelfe into that guilt, which of late you would not own, wee ſee you are content now to wrap your ſelf up in the name of a Plunderer, ſo long as it is in ſo good Company.</p>
+            <p>
+               <label>Declaration.</label>
+They have ſpared no age, &amp;c. and all this done by a company of men crept out now at laſt out of the bottome of Pandora<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Box.</p>
+            <p>
+               <label>Obſervation.</label>
+His Lordſhip ſpends a whole leafe in idle and groundleſſe aſperſions, which I will not confute, but let the whole Countrey doe it, only this I will adde, had he not ſtuffed his paper wi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h theſe, his Declaration had been ſhorter waſted; he ſayes our company have crept out of the Box, what if I ſay, his Lordſhip then and whole Army hath crept into it, for I think they were boxed of late and that ſoundly too; I am ſorry that his wit gives mee the hint to be thus ridicu<g ref="char:EOLhyphen"/>lous, but ſince he will laugh, we ſhall laugh for company.</p>
+            <p>
+               <pb n="14" facs="tcp:55113:8"/>
+               <label>Declaration.</label>
+There may bee treaſon againſt the King, none againſt them, there may bee<g ref="char:punc">▪</g> forfeitures of eſtates to the King, none to them.</p>
+            <p>
+               <label>Obſervation.</label>
+But if they be armed, as they are by a Soveraign or Par<g ref="char:EOLhyphen"/>liamentary power, what is done againſt them in that capa<g ref="char:EOLhyphen"/>city is as <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch treaſon, as he that ſtrikes a Iudge on the Bench or Magiſtrate in his place, ſtrikes not ſo much the man as the Authority, and ſo are the forfeiture two even to them thus enabled and miniſterialized by Ordinance, and now all he ſayes after, is on miſtaken principles.</p>
+            <p>
+               <label>Declaration.</label>
+I made a publike Declaration againſt Plundering, in Print,</p>
+            <p>
+               <label>Obſervation.</label>
+And it was wiſely done, however to declare againſt Plun<g ref="char:EOLhyphen"/>dering, now had you ſo good Rhetorick as to perſwade the people you plundered not though you took all, that were a quaint device; but well, as your Lordſhip ſayes, it is hard if you cannot afford your ſelfe a good word; it had not me thinks been amiſſe, had you carried your Declaration in one hand and your ſword in the other, and ſo have plundred by the book.</p>
+            <p>
+               <label>Declaration.</label>
+But what hath been done in that kind, hath beene done by the Gentry, when I have rather acted the part of the Miniſter to execute what they reſolved,</p>
+            <p>
+               <label>Obſervation.</label>
+I have rather acted the part of a Miniſter, &amp;c. your Lord<g ref="char:EOLhyphen"/>ſhip does well to ſpeak truth, it is pitty but the blame ſhould ly where it ought; indeed wee wonder you caſheered not thoſe Gentry ere this, as you have done <hi>Savill</hi> and <hi>Gower,</hi> &amp;c. certainly they have not delt fairely with you, to bring you
+<pb n="15" facs="tcp:55113:8"/>
+in and promiſe you pay, and now not to be able to performe, either their abilities are very little or their honeſties.</p>
+            <p>
+               <label>Declaration.</label>
+It were a more conſcionable and diſcrect part of them to re<g ref="char:EOLhyphen"/>paire all as one unanimous body to their Soveraignes Stan<g ref="char:EOLhyphen"/>dard, &amp;c.</p>
+            <p>
+               <label>Obſervation.</label>
+They are all under the right Standard already, under the Royall Parliamentary power, and they fight againſt you and the reſt for painting a counterfeit, and diſplaying it to ſeduce both them and theirs, your Lion, or Crown, or ſuch paintings is no Regall Authoritie, colours make not a cauſe no more than a Crucifix makes Chriſtia<g ref="char:EOLhyphen"/>nitie.</p>
+            <p>
+               <label>Declaration.</label>
+His Lordſhip talkes of driving mee and my Army out of the Countrey, if it bee not a flouriſh, but a true ſpark of un<g ref="char:EOLhyphen"/>diſſembled Gallantry, hee may doe well to expreſſe for time and place.</p>
+            <p>
+               <label>Obſervation.</label>
+Your Lordſhip makes a challenge, you know neither hath the <hi>Fairefaxes</hi> or <hi>Hothams</hi> of any of our worthies ever de<g ref="char:EOLhyphen"/>clined you in the Field; nor mee thinks ſhould you chal<g ref="char:EOLhyphen"/>lenge again having loſt it ſo lately, if you challenge to ſave blood and miſery, you had better ſingle your ſelfe for a Duell with one of them, but perhaps you fight better in company: I like your challenge in paper well, it is ſafe fight<g ref="char:EOLhyphen"/>ing and wri<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing at diſtance, yet ſuch ſpeedy deciſion would doe well, I would our Southern Army were in that point of your Lordſhips mind, wee ſhould not languiſh ſo long; for the ſparks of Gallantry you call for in our Cham<g ref="char:EOLhyphen"/>pions, I believe you found rather their flames then their ſparks, your Army though<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it too hot ſtaying.</p>
+            <div type="postscript">
+               <pb n="16" facs="tcp:55113:9"/>
+               <head>Poſtſcript.</head>
+               <p>Our Gentry is taxed by this Declaration for breach of Promiſe, but the breach was <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> their parts, and conditionall convenants as ſuch were, doe ever ſtand and fall with their conditions.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
